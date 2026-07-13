@@ -49,7 +49,7 @@ const LoginPage = () => {
           />
           <Button
             type="submit"
-            className="bg-primary-500 text-white px-4 py-2 rounded hover:bg-primary-600"
+            className="bg-orange-500 text-white px-4 py-2 rounded hover:bg-orange-600"
           >
             {isLoading ? "Logging in" : "Login"}
           </Button>
